@@ -6,6 +6,8 @@ Topics include:
 
 1. Redis
 2. PostgreSQL
+3. Node 
+4. Express
 
 ---
 
